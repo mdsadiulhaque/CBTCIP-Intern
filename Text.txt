@@ -1,0 +1,3 @@
+Forecast future trends or values based on historical data. 
+You can use time series models like ARIMA or Prophet 
+and evaluate the model using metrics like RMSE or MAE.
